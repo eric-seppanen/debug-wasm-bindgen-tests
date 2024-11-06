@@ -1,0 +1,10 @@
+[package]
+name = "dummy-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# nothing
+
+[dev-dependencies]
+wasm-bindgen-test = "0.3.42"
